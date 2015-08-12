@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://ecloud.1001a.cn:2875/soft/xqcm/xqcm.ipa</string>
+                   <string>http://ecloud.1001a.cn:2875/soft/huaxuetong/huaxuetong.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://ecloud.1001a.cn:2875/soft/xqcm/57.png</string>
+                   <string>http://ecloud.1001a.cn:2875/soft/huaxuetong/57.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -27,20 +27,20 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://ecloud.1001a.cn:2875/soft/xqcm/512.png</string>
+                   <string>http://ecloud.1001a.cn:2875/soft/huaxuetong/512.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.eplayer.xqcm</string>
+               <string>com.eplayer.huaxuetong</string>
                <key>bundle-version</key>
                <string>1.0.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>戏曲传媒</string>
+               <string>华学通</string>
                <key>title</key>
-               <string>戏曲传媒</string>
+               <string>华学通</string>
            </dict>
        </dict>
    </array>
