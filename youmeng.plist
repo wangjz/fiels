@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://ecloud.1001a.cn:2875/soft/youjiao/youmeng.ipa</string>
+                   <string>http://www.youmeng.co/_upload/app/ios/youmeng.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://ecloud.1001a.cn:2875/soft/youjiao/57.png</string>
+                   <string>http://www.youmeng.co/_upload/app/ios/57.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -27,12 +27,12 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://ecloud.1001a.cn:2875/soft/youjiao/512.png</string>
+                   <string>http://www.youmeng.co/_upload/app/ios/512.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.eplayer.youjiao</string>
+               <string>com.eplayer.youmeng</string>
                <key>bundle-version</key>
                <string>1.0.0</string>
                <key>kind</key>
